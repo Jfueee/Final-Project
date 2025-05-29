@@ -37,9 +37,8 @@ Here are some games I have programmed:
 ## Links
 
 - [GitHub Repository](https://github.com/Jfueee/Final-Project/new/main)  
-- [Live Portfolio Site (CodePen)](https://codepen.io/pen/)
+- [Live Portfolio Site (CodePen)](https://codepen.io/asian-Kid/pen/YPXXJgg)
 
 ---
 
 Thank you for visiting my portfolio! I’m excited to keep learning and improving my skills in coding and game development.
-
