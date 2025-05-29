@@ -36,7 +36,7 @@ Here are some games I have programmed:
 
 ## Links
 
-- [GitHub Repository](https://github.com/Jfueee/Final-Project/new/main)  
+- [GitHub Repository](https://github.com/Jfueee/Final-Project)  
 - [Live Portfolio Site (CodePen)](https://codepen.io/asian-Kid/pen/YPXXJgg)
 
 ---
